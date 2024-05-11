@@ -1,5 +1,5 @@
 # DataLabellingPlatform
-Data Labelling Platform
+Data Labelling Platform(Make the best models with the best data - https://scale.com/)
 
 Full Stack + Web3 Project
 (S3 + Nextjs + Solana + web3.js)
